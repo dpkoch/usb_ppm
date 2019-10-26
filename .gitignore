@@ -1,0 +1,21 @@
+*~
+*.swp
+
+build/
+
+# Eagle
+*.b#[1-9]
+*.s#[1-9]
+
+*.ger
+*.gpi
+*.drd
+*.dri
+*.xln
+*.plc
+*.cmp
+*.sol
+*.stc
+*.sts
+
+*.zip
